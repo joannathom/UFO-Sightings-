@@ -1,5 +1,5 @@
 # UFO-Sightings-
 
-!Screenshot(ufo_screenshot.png)
+!Screenshot(ufoscreenshot.png)
 
 UFO data sightings around the world
