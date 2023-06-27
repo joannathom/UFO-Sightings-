@@ -1,2 +1,2 @@
 # UFO-Sightings-
-UFO spotting's data around the world
+UFO data sightings around the world
