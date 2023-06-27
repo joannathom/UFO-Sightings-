@@ -1,4 +1,4 @@
 # UFO-Sightings-
-![Uploading image.png…]()
+!Screenshot(Uploading image.png)
 
 UFO data sightings around the world
