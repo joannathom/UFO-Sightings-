@@ -7,8 +7,10 @@ UFO Data Sightings Around The World
 My mission for this project is to make the public more aware of unidentified flying objects that are appearing more and more around the world. 
 I am hoping that my research can give an overall view of stats on UFOs and if there are areas that are more frequently seen than other locations
 around the world. 
+
 Requirements to Run the Program:
-Open file Final-Project.ipynb Before you do any of the below please activate your terminal to be in a virtual enviroment:
+Open file Final-Project.ipynb 
+Before you do any of the below please activate your terminal to be in a virtual enviroment:
 python -m venv venvfor Windows
 Source venv/scripts/activate for Windows Computers
 python3 -m venv venv for Macs
