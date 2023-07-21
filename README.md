@@ -8,13 +8,20 @@ My mission for this project is to make the public more aware of unidentified fly
 I am hoping that my research can give an overall view of stats on UFOs and if there are areas that are more frequently seen than other locations
 around the world. 
 
-*Requirements to Run the Program:
-*Open file Final-Project.ipynb 
-*Before you do any of the below please activate your terminal to be in a virtual enviroment:
-*python -m venv venvfor Windows
+Requirements to Run the Program:
+
+Open file Final-Project.ipynb 
+
+Before you do any of the below please activate your terminal to be in a virtual enviroment:
+
+python -m venv venvfor Windows
+
 Source venv/scripts/activate for Windows Computers
+
 python3 -m venv venv for Macs
+
 Source venv/bin/activate for for Mac Computers
+
 Use this code to set up the requirements file:
 
 pip freeze > requirements.txt
@@ -25,6 +32,7 @@ git add
 git commit -m ''
 git push
 refresh repository to view changes online
+
 Then to explore and analyze the data you will need to install these libraries listed in requirement.txt these below:
 
 import pandas as pd
@@ -38,5 +46,7 @@ Pandas as pd
 Python 3.11
 Jupyter Notebook
 Visual Studio
+
 Features:
+
 Feature 1: Exploring the Data
